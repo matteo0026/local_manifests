@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="S3NEO/android_device_samsung_matissewifi" path="device/samsung/matissewifi" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_matisselte" path="device/samsung/matisselte" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_matisse3g" path="device/samsung/matisse3g" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_matisse-common" path="device/samsung/matisse-common" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_milletwifi" path="device/samsung/milletwifi" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_milletlte" path="device/samsung/milletlte" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_milletltetmo" path="device/samsung/milletltetmo" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_millet3g" path="device/samsung/millet3g" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_device_samsung_millet-common" path="device/samsung/millet-common" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_matissewifi" path="vendor/samsung/matissewifi" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_matisselte" path="vendor/samsung/matisselte" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_matisse3g" path="vendor/samsung/matisse3g" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_matisse-common" path="vendor/samsung/matisse-common" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_milletwifi" path="vendor/samsung/milletwifi" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_milletlte" path="vendor/samsung/milletlte" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_milletltetmo" path="vendor/samsung/milletltetmo" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_millet3g" path="vendor/samsung/millet3g" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_millet-common" path="vendor/samsung/millet-common" remote="github" revision="lineage-17.1" />
+  <project name="S3NEO/android_vendor_samsung_msm8226-common" path="vendor/samsung/msm8226-common" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_kernel_samsung_msm8226" path="kernel/samsung/msm8226" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-17.1" />
+</manifest>
+
